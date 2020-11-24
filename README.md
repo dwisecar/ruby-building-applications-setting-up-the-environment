@@ -21,7 +21,7 @@ our necessary files are required?
 
 There are two common conventions we're going to look at in this lesson that
 address these questions: using a run file and setting up the environment in
-`environment.rb`.
+`environment.rb`. 
 
 ## Using a Run File
 
